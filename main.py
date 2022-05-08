@@ -1,5 +1,3 @@
-print('hi')
-N = int(input())
-for i in range (N):
+for i in range (10):
     print(i)
 
